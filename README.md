@@ -1,4 +1,5 @@
 # 📌 Project Background  
-Goal: Apply different deep learning models to a chosen dataset, and find the best model.
+Driver drowsiness detection is a type of technology used in vehicles that helps detect driver drowsiness. These systems help prevent fatigue-related accidents. Various technologies are currently used. For example, steering pattern monitoring, vehicle position in lane monitoring, and driver face monitoring. 
+
 
 
