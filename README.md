@@ -1,2 +1,4 @@
 # 📌 Project Background  
-This project aims to apply different types of deep learning models to find the best model.   
+Goal: Apply different deep learning models to a chosen dataset, and find the best model.
+
+
