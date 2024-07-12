@@ -3,6 +3,6 @@ Driver drowsiness detection is a type of technology used in vehicles that helps 
 
 <i>In collaboration with Anurag Ramesh Patil, Bijay Gautam, Justin Gamoras, Shri Hari Sekar, and Suyog Sanklapur.</i>
 
-# 😪 Data Overview  
-This dataset contains 2900 images of
+# 🧐 Data Overview  
+This dataset contains 2900 images
 
