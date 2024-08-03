@@ -43,4 +43,9 @@ Though the performance of the neural network with 1 hidden layer was extremely p
 - Early Stopping
 - A combination of the algorithms and techniques
 
-However, the best model was still the neural network model with 1 hidden layer and 4 nodes.    
+However, the best model was still the neural network model with 1 hidden layer and 4 nodes.  
+
+# ❕Project Importance  
+Industries that are or could be impacted by a driver drowsiness detection system include car manufacturers, transportation services, and businesses that use heavy machinery. 
+
+
