@@ -26,3 +26,6 @@ To pre-process the data, we did data partitioning, image processing, and normali
   <br>
     <img src="Images/img-03.png" width="800">
   <br>  
+
+# 📈 Evaluation of Models  
+The evaluation metric that we used was accuracy. Not only is accuracy easy to explain, but overall model correctness is important. Misclassifying a drowsy driver as non-drowsy can be dangerous, and misclassifying alert drivers as drowsy could lead to unnecessary alerts or make the system less robust. In general, humans can identify whether someone is yawning or an image of an eye is open or closed, so the human error is close to 0% meaning that our goal should be to try to aim for high accuracy.  
