@@ -55,7 +55,7 @@ Who would benefit from a more accurate driver drowsiness detection model?
 Financially, auto insurance companies, tech companies that will or are developing these systems, and auto manufacturers will benefit from this highly accurate model. And more importantly, the general public will benefit from this in terms of greater traffic safety.  
 
 # ☁️ Project Improvements  
-Models and percentages are a good starting point. However, to make this project more accessible to others, an improvement may be to build a UI that puts this dataset and model into action.  
+Models and percentages are a good starting point. However, to make this project more accessible to others, an improvement may be to put this into a friendly user interface.  
 
 
 
