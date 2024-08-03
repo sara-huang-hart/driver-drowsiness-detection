@@ -17,7 +17,7 @@ To pre-process the data, we did data partitioning, image processing, and normali
 - Data partitioning to split the images into three datasets, 60% in training, 20% in cross-validation, and the remaining 20% in testing.  
   <br>
     <img src="Images/img-02.png" width="800">
-  <br>  
+  <br>
   This resulted in 1740 images in the training set and 580 images in each of the cross-validation and testing sets.   
 - Image processing to resize each of the images to 64 pixels x 64 pixels and to add the 0 and 1 labels to the images.  
   <br>
