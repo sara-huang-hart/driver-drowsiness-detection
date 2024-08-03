@@ -10,4 +10,6 @@ This dataset contains 2900 images, each in one of the following categories:
 - person yawning
 - person not yawning  
 
-The outcome variable is binary (1 for drowsy and 0 for non-drowsy). Images in the "eye opened" or "person not yawning" groups are non-drowsy, whereas images in the "eye closed" or "person yawning" groups are drowsy.      
+The outcome variable is binary (1 for drowsy and 0 for non-drowsy). Images in the "eye opened" or "person not yawning" groups are considered non-drowsy, whereas images in the "eye closed" or "person yawning" groups are considered drowsy. 75% of the images in this dataset have an outcome of 1, or drowsy.  
+
+# 🖥️ Data Pre-processing  
