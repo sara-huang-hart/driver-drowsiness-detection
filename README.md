@@ -32,7 +32,7 @@ The evaluation metric that we used was accuracy. Not only is accuracy easy to ex
 
 We then tried building two simple neural networks, one with 1 hidden layer (4 nodes) and another one with 2 hidden layers (7 nodes in hidden layer 1 and 4 nodes in hidden layer 2). The neural network with 1 hidden layer returned the best results with a training accuracy of 99%, a cross-validation accuracy of 98.5%, and a testing accuracy of 97%.  
 
-Though the performance of the neural network with 1 hidden layer was extremely positive, we used the Tensorflow package to try to run the dataset through different models to see if they would provide better results. Some algorithms we tried included:  
+Though the performance of the neural network with 1 hidden layer was extremely positive, we used the Tensorflow package to try to run the dataset through different models to see if they would provide better results. Some algorithms and techniques we tried included:   
 - Adam (Adaptive Moment Estimation)
 - Mini-Batch Gradient Descent
 - Mini-Bath Gradient Descent with Momentum
