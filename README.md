@@ -40,4 +40,5 @@ Though the performance of the neural network with 1 hidden layer was extremely p
 - L2 Regularization
 - Dropout
 - Batch Normalization
-- Early Stopping  
+- Early Stopping
+- A combination of the algorithms   
