@@ -16,5 +16,5 @@ The outcome variable is binary (1 for drowsy and 0 for non-drowsy). Images in th
 To pre-process the data, we did image processing, data partitioning, and normalization.  
 - Image processing to resize each of the images to 64 pixels x 64 pixels and to add the 0 and 1 labels to the images.  
   <br>
-    <img src="Images/img-01.png" width="500">
+    <img src="Images/img-01.png" width="800">
   <br>
