@@ -41,4 +41,4 @@ Though the performance of the neural network with 1 hidden layer was extremely p
 - Dropout
 - Batch Normalization
 - Early Stopping
-- A combination of the algorithms   
+- A combination of the algorithms and techniques    
