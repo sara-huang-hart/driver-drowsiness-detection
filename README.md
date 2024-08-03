@@ -41,4 +41,6 @@ Though the performance of the neural network with 1 hidden layer was extremely p
 - Dropout
 - Batch Normalization
 - Early Stopping
-- A combination of the algorithms and techniques    
+- A combination of the algorithms and techniques
+
+However, the best model was still the neural network model with 1 hidden layer and 4 nodes.    
