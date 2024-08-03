@@ -30,5 +30,14 @@ To pre-process the data, we did data partitioning, image processing, and normali
 # 📈 Evaluation of Models  
 The evaluation metric that we used was accuracy. Not only is accuracy easy to explain, but overall model correctness is important. Misclassifying a drowsy driver as non-drowsy can be dangerous, and misclassifying alert drivers as drowsy could lead to unnecessary alerts or make the system less robust. In general, humans can identify whether someone is yawning or an image of an eye is open or closed, so the human error is close to 0% meaning that our goal should be to try to aim for high accuracy. Our benchmark model, logistic regression, returned a training accuracy of 90.7%.  
 
-We then tried building two simple neural networks, one with 1 hidden layer (4 nodes) and another one with 2 hidden layers (7 nodes in layer 1 and 4 nodes in layer 2).  
+We then tried building two simple neural networks, one with 1 hidden layer (4 nodes) and another one with 2 hidden layers (7 nodes in hidden layer 1 and 4 nodes in hidden layer 2). The neural network with 1 hidden layer returned the best results with a training accuracy of 99%, a cross-validation accuracy of 98.5%, and a testing accuracy of 97%.  
 
+Though the performance of the neural network with 1 hidden layer was extremely positive, we used the Tensorflow package to try to run the dataset through different models to see if they would provide better results. Some algorithms we tried included:  
+- Adam (Adaptive Moment Estimation)
+- Mini-Batch Gradient Descent
+- Mini-Bath Gradient Descent with Momentum
+- RMSprop (Root Mean Squared Prop)
+- L2 Regularization
+- Dropout
+- Batch Normalization
+- Early Stopping  
