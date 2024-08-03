@@ -48,9 +48,14 @@ However, the best model was still the neural network model with 1 hidden layer a
 # ❕Project Importance  
 Industries that are or could be impacted by a driver drowsiness detection system include car manufacturers, transportation services, and businesses that use heavy machinery. 
 
-Why is a neural network model more useful than a simple model, like logistic regression, for this dataset? When detecting drowsiness, image data is more accurate than variable data and neural networks are better at image classification than simple models are. This is one of the reasons why the model accuracy on the neural network is better than the logistic regression accuracy.  
+Why is a neural network model more useful than a simple model, like logistic regression, for this dataset?  
+When detecting drowsiness, image data is more accurate than variable data and neural networks are better at image classification than simple models are. This is one of the reasons why the model accuracy on the neural network is better than the logistic regression accuracy.  
 
 Who would benefit from a more accurate driver drowsiness detection model?  
+Financially, auto insurance companies, tech companies that will or are developing these systems, and auto manufacturers will benefit from this highly accurate model. And more importantly, the general public will benefit from this in terms of greater traffic safety.  
+
+# ☁️ Project Improvements  
+Models and percentages are a good starting point. However, to make this project more accessible to others, an improvement may be to build a UI that puts this dataset and model into action.  
 
 
 
